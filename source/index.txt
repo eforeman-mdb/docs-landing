@@ -37,6 +37,16 @@ Welcome to the MongoDB Documentation
    :columns: 2
    :layout: carousel
 
+   .. card:: 
+      :headline: Elyse Foreman
+      :url: https://www.mongodb.com/docs/elyse-foreman/
+      :icon: /images/icons/elyse.jpg
+      :icon-alt: MongoDB Elyse icon
+
+      Elyse Foreman is a very dedicated Technical Writer Intern with the Cloud Enterprise Tools Team. 
+      
+
+
    .. card::
       :headline: Atlas
       :url: https://www.mongodb.com/docs/atlas/getting-started/
