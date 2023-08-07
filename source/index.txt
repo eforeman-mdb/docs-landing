@@ -29,23 +29,13 @@ Welcome to the MongoDB Documentation
    Find the guides, samples, and references you need to use the database,
    visualize data, and build applications on the MongoDB data platform.
 
-.. image:: /images/homepage-hero.svg
+.. image:: /images/elyse.jpg
    :class: hero-img
    :alt: Homepage illustration
 
 .. card-group::
    :columns: 2
    :layout: carousel
-
-   .. card:: 
-      :headline: Elyse Foreman
-      :url: https://www.mongodb.com/docs/elyse-foreman/
-      :icon: /images/icons/elyse.jpg
-      :icon-alt: MongoDB Elyse icon
-
-      Elyse Foreman is a very dedicated Technical Writer Intern with the Cloud Enterprise Tools Team. 
-      
-
 
    .. card::
       :headline: Atlas
